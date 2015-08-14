@@ -1,4 +1,4 @@
 Template (Jekyll Friendly)
 ==========================
 
-I this as a simple structure for a simple start to a simple site.
+I use this as a simple structure for a simple start to a simple site.
